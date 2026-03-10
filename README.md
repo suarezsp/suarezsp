@@ -16,7 +16,7 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=suarezsp&style=flat-square&color=2e2e3e&label=profile+views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Final%20Year-2e2e3e?style=flat-square&logoColor=f8f7f4" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Final%20Year-2e2e3e?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Collaborate-d4420a?style=flat-square" />
 </div>
@@ -50,7 +50,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 </td>
 <td width="46%" valign="top" align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=suarezsp&show_icons=true&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&icon_color=b8860b&text_color=6b6b7e&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&hide_title=false"
+  src="https://github-readme-stats.vercel.app/api?username=suarezsp&show_icons=true&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&icon_color=b8860b&text_color=6b6b7e&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
   width="100%"
   alt="GitHub Stats"
 />
@@ -156,7 +156,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 &nbsp;
 <img
   height="155em"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=suarezsp&theme=dark&background=0a0a0f&border=2e2e3e&stroke=2e2e3e&ring=d4420a&fire=b8860b&currStreakNum=f8f7f4&sideNums=b8b8c8&currStreakLabel=6b6b7e&sideLabels=6b6b7e&dates=3a3a48"
+  src="https://streak-stats.demolab.com/?user=suarezsp&background=0a0a0f&border=2e2e3e&stroke=2e2e3e&ring=d4420a&fire=b8860b&currStreakNum=f8f7f4&sideNums=b8b8c8&currStreakLabel=6b6b7e&sideLabels=6b6b7e&dates=3a3a48"
   alt="GitHub Streak"
 />
 
@@ -193,54 +193,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  CONTRIBUTION SNAKE                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suarezsp/suarezsp/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suarezsp/suarezsp/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/suarezsp/suarezsp/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<details>
-<summary><code>Activate the contribution snake</code></summary>
-<br/>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 */12 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  CONTACT                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -254,11 +206,15 @@ jobs:
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  FOOTER                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <br/>
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1c24,100:0a0a0f&height=48&text=github.com%2Fsuarezsp&fontSize=11&fontColor=2e2e3e&fontAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1c1c24&height=90&text=Delivering%20Elegant%20Solutions&fontSize=22&fontColor=b8b8c8&fontAlignY=42&desc=github.com%2Fsuarezsp&descSize=12&descColor=2e2e3e&descAlignY=72"
     width="100%"
   />
 </div>
