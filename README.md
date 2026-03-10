@@ -6,7 +6,7 @@
 <!-- ░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1c1c24&height=180&text=LORD%20FARQUARD&fontColor=f8f7f4&fontSize=52&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20LLMs%20%7C%20Cybersecurity%20%7C%20CEO%20%40%20LosPacos&descColor=b8b8c8&descSize=14&descAlignY=68"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1c1c24&height=180&text=NEFER%20SUAREZ&fontColor=f8f7f4&fontSize=52&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20LLMs%20%7C%20Cybersecurity%20%7C&descColor=b8b8c8&descSize=14&descAlignY=68"
     width="100%"
   />
 </div>
