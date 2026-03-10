@@ -1,260 +1,317 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     LORD FARQUARD · GITHUB PROFILE README                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--              LORD FARQUARD — GITHUB PROFILE README               -->
+<!--     Palette: #0a0a0f · #d4420a · #b8860b · #0a5cd4 · #f8f7f4    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- HEADER BANNER -->
+<!-- ░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a3d62,100:00d2ff&height=200&section=header&text=Lord%20Farquard&fontSize=60&fontColor=00ffcc&fontAlignY=38&desc=Fullstack%20Dev%20%7C%20LLMs%20%7C%20Cybersecurity%20%7C%20CEO%20%40%20LosPacos&descSize=16&descAlignY=58&descColor=7fffd4&animation=fadeIn" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1c1c24&height=180&text=LORD%20FARQUARD&fontColor=f8f7f4&fontSize=52&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20LLMs%20%7C%20Cybersecurity%20%7C%20CEO%20%40%20LosPacos&descColor=b8b8c8&descSize=14&descAlignY=68"
+    width="100%"
+  />
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- ░░ TYPING LINE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=%3E+Booting+system...;%3E+Loading+Lord+Farquard.exe...;%3E+Fullstack+Developer+%E2%9C%94;%3E+LLM+Enthusiast+%E2%9C%94;%3E+Cybersecurity+Researcher+%E2%9C%94;%3E+CEO+%40+LosPacos+%E2%9C%94;%3E+Ready+to+build+the+future_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1200&color=d4420a&center=true&vCenter=true&width=680&lines=%3E+Computer+Engineering+%E2%80%94+Final+Year;%3E+Building+intelligent+agents+%40+LosPacos;%3E+Fullstack+%7C+LLMs+%7C+Cybersecurity+%7C+Industrial+Tech;%3E+From+startup+to+factory+floor%2C+shipping+software_" alt="Typing SVG" />
   </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=LordFarquard&style=flat-square&color=d4420a&label=profile+views&abbreviated=true" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/open%20to%20collab-d4420a?style=flat-square&logoColor=f8f7f4" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CEO%20%40%20LosPacos-b8860b?style=flat-square&logoColor=0a0a0f" />
 </div>
 
 <br/>
-
-<!-- VISITOR COUNTER + SOCIAL BADGES -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LordFarquard&style=pixel&color=00ffcc&label=VISITORS" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Available%20for%20freelance-00ffcc?style=flat-square&logo=statuspal&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CEO-%40%20LosPacos-0a3d62?style=flat-square&logo=about.me&logoColor=00ffcc" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=2" width="100%"/>
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  § 01 — ABOUT                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ██████████████████████████████████████████████ -->
-<!--                   ABOUT ME                     -->
-<!-- ██████████████████████████████████████████████ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:0a3d62&height=3&section=header" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;`> whoami`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="22"/> &nbsp;`01 / whoami`
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  NAME    : Lord Farquard                                     ║
-║  ROLE    : Fullstack Developer & CEO @ LosPacos              ║
-║  DEGREE  : Computer Engineering (Final Year)                 ║
-║  STATUS  : Building the future, one commit at a time         ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────┐
+│  NAME     Lord Farquard                                                 │
+│  ROLE     Fullstack Developer & CEO @ LosPacos                          │
+│  DEGREE   Computer Engineering  ·  Final Year                           │
+│  FOCUS    LLMs · Cybersecurity · Industrial Software                    │
+│  STATUS   Building — always.                                            │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-<table align="center">
+<table>
 <tr>
 <td width="55%" valign="top">
 
-### 📋 About Me
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, excepteur sint occaecat cupidatat non proident.
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=LordFarquard&screen_effect=true&theme=rainbow&pixelate_avatar=true" alt="Pixel GitHub Stats" width="100%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=LordFarquard&show_icons=true&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&icon_color=b8860b&text_color=b8b8c8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
+  width="100%"
+  alt="GitHub Stats"
+/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<br/>
 
-<!-- ██████████████████████████████████████████████ -->
-<!--                INTERESTS & FOCUS               -->
-<!-- ██████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  § 02 — LOSPACOS                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🎮 &nbsp;`> cat interests.txt`
+## 🏢 &nbsp;`02 / LosPacos`
 
 <div align="center">
-
-| 🧠 **LLMs & AI Agents** | 🔐 **Cybersecurity** | ⚙️ **Fullstack Dev** | 🏭 **Industrial Tech** |
-|:---:|:---:|:---:|:---:|
-| Diseño de agentes inteligentes y pipelines con LLMs aplicados a industria y negocio | Análisis, pentesting y hardening de sistemas. Red Team / Blue Team | Frontend + Backend + Infra. Del pixel al servidor. | Proyectos reales en entornos industriales y startups tecnológicas |
-
-</div>
-
----
-
-<!-- ██████████████████████████████████████████████ -->
-<!--                  TECH STACK                    -->
-<!-- ██████████████████████████████████████████████ -->
-
-## 🛠️ &nbsp;`> ls -la /tech_stack/`
-
-### ⚡ Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,bash,rust&theme=dark&perline=6" />
-</div>
-
-### 🌐 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&theme=dark&perline=6" />
-</div>
-
-### 🔧 Backend & Infra
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,docker,kubernetes,nginx&theme=dark&perline=6" />
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,supabase&theme=dark&perline=6" />
-</div>
-
-### 🤖 AI / ML
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=6" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00ffcc"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-</div>
-
-### 🔐 Cybersecurity
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
-</div>
-
-### 🔨 Tools & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,gcp&theme=dark&perline=6" />
-</div>
-
----
-
-<!-- ██████████████████████████████████████████████ -->
-<!--                 LOSPACOS CO.                   -->
-<!-- ██████████████████████████████████████████████ -->
-
-## 🏢 &nbsp;`> cat /companies/lospacos.md`
 
 ```
- ██╗      ██████╗ ███████╗██████╗  █████╗  ██████╗ ██████╗ ███████╗
- ██║     ██╔═══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔════╝
- ██║     ██║   ██║███████╗██████╔╝███████║██║     ██║   ██║███████╗
- ██║     ██║   ██║╚════██║██╔═══╝ ██╔══██║██║     ██║   ██║╚════██║
- ███████╗╚██████╔╝███████║██║     ██║  ██║╚██████╗╚██████╔╝███████║
- ╚══════╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
+██╗      ██████╗ ███████╗    ██████╗  █████╗  ██████╗ ██████╗ ███████╗
+██║     ██╔═══██╗██╔════╝    ██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔════╝
+██║     ██║   ██║███████╗    ██████╔╝███████║██║     ██║   ██║███████╗
+██║     ██║   ██║╚════██║    ██╔═══╝ ██╔══██║██║     ██║   ██║╚════██║
+███████╗╚██████╔╝███████║    ██║     ██║  ██║╚██████╗╚██████╔╝███████║
+╚══════╝ ╚═════╝ ╚══════╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
-<div align="center">
-
-> **LosPacos** — Agentes inteligentes y software a medida para empresas **startups**, **tecnológicas** e **industriales**
-
-| 🤖 AI Agents | 💼 Software Empresarial | 🏭 Soluciones Industriales |
-|:---:|:---:|:---:|
-| Automatización inteligente con LLMs para flujos de trabajo empresariales | Desarrollo fullstack personalizado para startups en crecimiento | Software robusto para entornos industriales y manufactura |
+> **AI-powered agents and enterprise software for startups, tech companies, and industrial environments.**
 
 </div>
 
----
+<div align="center">
 
-<!-- ██████████████████████████████████████████████ -->
-<!--               GITHUB STATS                    -->
-<!-- ██████████████████████████████████████████████ -->
+| [![](https://img.shields.io/badge/%E2%96%B8%20AI%20Agents-1c1c24?style=for-the-badge&logoColor=d4420a)](https://lospacos.com) | [![](https://img.shields.io/badge/%E2%96%B8%20Enterprise%20Software-1c1c24?style=for-the-badge)](https://lospacos.com) | [![](https://img.shields.io/badge/%E2%96%B8%20Industrial%20Solutions-1c1c24?style=for-the-badge)](https://lospacos.com) |
+|---|---|---|
+| Intelligent automation with LLMs for real business workflows | Custom fullstack development tailored to growing startups | Robust software for industrial and manufacturing environments |
 
-## 📊 &nbsp;`> git log --stat`
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  § 03 — TECH STACK                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🛠 &nbsp;`03 / stack`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordFarquard&show_icons=true&theme=merko&bg_color=0d0221&border_color=00ffcc&title_color=00ffcc&icon_color=7fffd4&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordFarquard&layout=compact&theme=merko&bg_color=0d0221&border_color=00ffcc&title_color=00ffcc&text_color=c9d1d9&hide_border=false"/>
+
+**— Languages —**
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,bash,rust&theme=dark&perline=8" />
+
+<br/><br/>
+
+**— Frontend —**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&theme=dark&perline=8" />
+
+<br/><br/>
+
+**— Backend & Infrastructure —**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,docker,kubernetes,nginx&theme=dark&perline=8" />
+
+<br/><br/>
+
+**— Databases —**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,sqlite&theme=dark&perline=8" />
+
+<br/><br/>
+
+**— AI / LLM —**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=8" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1c1c24?style=flat-square&logo=chainlink&logoColor=d4420a"/>
+<img src="https://img.shields.io/badge/OpenAI-1c1c24?style=flat-square&logo=openai&logoColor=f8f7f4"/>
+<img src="https://img.shields.io/badge/Anthropic-1c1c24?style=flat-square&logo=anthropic&logoColor=b8860b"/>
+<img src="https://img.shields.io/badge/Ollama-1c1c24?style=flat-square&logo=ollama&logoColor=f8f7f4"/>
+<img src="https://img.shields.io/badge/HuggingFace-1c1c24?style=flat-square&logo=huggingface&logoColor=b8860b"/>
+
+<br/><br/>
+
+**— Cybersecurity —**
+
+<img src="https://img.shields.io/badge/Kali%20Linux-1c1c24?style=flat-square&logo=kalilinux&logoColor=0a5cd4"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-1c1c24?style=flat-square&logo=portswigger&logoColor=d4420a"/>
+<img src="https://img.shields.io/badge/Wireshark-1c1c24?style=flat-square&logo=wireshark&logoColor=0a5cd4"/>
+<img src="https://img.shields.io/badge/Metasploit-1c1c24?style=flat-square&logo=metasploit&logoColor=f8f7f4"/>
+<img src="https://img.shields.io/badge/Nmap-1c1c24?style=flat-square&logo=nmap&logoColor=b8860b"/>
+<img src="https://img.shields.io/badge/OWASP-1c1c24?style=flat-square&logo=owasp&logoColor=d4420a"/>
+
+<br/><br/>
+
+**— Platforms & Tools —**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,gcp&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  § 04 — STATS                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp;`04 / stats`
+
+<div align="center">
+
+<img
+  height="170em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordFarquard&layout=compact&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&text_color=b8b8c8&hide_border=false"
+  alt="Top Languages"
+/>
+&nbsp;
+<img
+  height="170em"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=LordFarquard&theme=dark&background=0a0a0f&border=2e2e3e&stroke=2e2e3e&ring=d4420a&fire=b8860b&currStreakNum=f8f7f4&sideNums=b8b8c8&currStreakLabel=d4420a&sideLabels=6b6b7e&dates=3a3a48"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordFarquard&theme=dark&background=0d0221&border=00ffcc&stroke=00ffcc&ring=7fffd4&fire=00ffcc&currStreakNum=00ffcc&sideNums=c9d1d9&currStreakLabel=7fffd4&sideLabels=7fffd4&dates=c9d1d9" width="55%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LordFarquard&bg_color=0a0a0f&color=b8b8c8&line=0a5cd4&point=d4420a&area=true&area_color=1c1c24&hide_border=false&border_color=2e2e3e&custom_title=Contribution%20Activity"
+    width="97%"
+    alt="Activity Graph"
+  />
 </div>
 
----
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<br/>
 
-<!-- ██████████████████████████████████████████████ -->
-<!--                  TROPHIES                     -->
-<!-- ██████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  § 05 — TROPHIES                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;`> ./achievements --list`
+## 🏆 &nbsp;`05 / achievements`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LordFarquard&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false" width="100%"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=LordFarquard&theme=darkhub&column=7&margin-w=6&margin-h=6&no-bg=false&no-frame=false"
+    width="100%"
+    alt="GitHub Trophies"
+  />
 </div>
 
----
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<br/>
 
-<!-- ██████████████████████████████████████████████ -->
-<!--           CONTRIBUTION GRAPH                  -->
-<!-- ██████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  § 06 — CONTRIBUTION SNAKE                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🐍 &nbsp;`> watch contrib --snake`
+## 🐍 &nbsp;`06 / contributions`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake.svg" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Contribution snake"
+      src="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+    />
   </picture>
 </div>
 
-> 📌 **Para activar la serpiente:** Crea `.github/workflows/snake.yml` con el workflow de `Platane/snk` y ejecuta la acción una vez. El gráfico se actualizará automáticamente cada 12h.
-
----
-
-<!-- ██████████████████████████████████████████████ -->
-<!--               ACTIVITY GRAPH                  -->
-<!-- ██████████████████████████████████████████████ -->
-
-## 📈 &nbsp;`> git log --graph --oneline`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordFarquard&bg_color=0d0221&color=00ffcc&line=7fffd4&point=00ffcc&area=true&area_color=0a3d62&hide_border=false&border_color=00ffcc&custom_title=Lord%20Farquard's%20Activity%20Graph" width="100%"/>
-</div>
-
----
-
-<!-- ██████████████████████████████████████████████ -->
-<!--                  CONNECT                      -->
-<!-- ██████████████████████████████████████████████ -->
-
-## 📡 &nbsp;`> ping me`
-
-<div align="center">
-  <a href="https://linkedin.com/in/LordFarquard">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:lordfarquard@lospacos.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://lospacos.com">
-    <img src="https://img.shields.io/badge/LosPacos-00ffcc?style=for-the-badge&logo=safari&logoColor=0d0221"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/LordFarquard">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
-
+<details>
+<summary><code>► Activate the contribution snake</code></summary>
 <br/>
 
+Create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  § 07 — CONNECT                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📡 &nbsp;`07 / contact`
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" width="70%"/>
+
+<a href="https://linkedin.com/in/LordFarquard">
+  <img src="https://img.shields.io/badge/LinkedIn-1c1c24?style=for-the-badge&logo=linkedin&logoColor=0a5cd4"/>
+</a>
+&nbsp;
+<a href="mailto:lordfarquard@lospacos.com">
+  <img src="https://img.shields.io/badge/Email-1c1c24?style=for-the-badge&logo=gmail&logoColor=d4420a"/>
+</a>
+&nbsp;
+<a href="https://lospacos.com">
+  <img src="https://img.shields.io/badge/LosPacos-1c1c24?style=for-the-badge&logo=safari&logoColor=b8860b"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/LordFarquard">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-1c1c24?style=for-the-badge&logo=x&logoColor=f8f7f4"/>
+</a>
+
 </div>
 
-<!-- FOOTER -->
+<!-- ░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0a3d62,100:0d0221&height=120&section=footer&text=LosPacos%20%C2%A9%202025&fontSize=18&fontColor=00ffcc&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1c24,100:0a0a0f&height=55&text=LosPacos%20%C2%B7%20Building%20intelligent%20software&fontSize=12&fontColor=3a3a48&fontAlignY=58"
+    width="100%"
+  />
 </div>
