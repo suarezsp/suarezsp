@@ -6,7 +6,7 @@
 <!-- ░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1c1c24&height=180&text=NEFER%20SUAREZ&fontColor=f8f7f4&fontSize=52&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20LLMs%20%7C%20Cybersecurity%20%7C&descColor=b8b8c8&descSize=14&descAlignY=68"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1c1c24&height=180&text=NEFER%20SUAREZ&fontColor=f8f7f4&fontSize=52&fontAlignY=45&desc=Fullstack%20Developer%20%7C%20LLMs%20%7C%20Cybersecurity%7C&descColor=b8b8c8&descSize=14&descAlignY=68"
     width="100%"
   />
 </div>
@@ -18,11 +18,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1200&color=d4420a&center=true&vCenter=true&width=680&lines=%3E+Computer+Engineering+%E2%80%94+Final+Year;%3E+Building+intelligent+agents+%40+LosPacos;%3E+Fullstack+%7C+LLMs+%7C+Cybersecurity+%7C+Industrial+Tech;%3E+From+startup+to+factory+floor%2C+shipping+software_" alt="Typing SVG" />
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=LordFarquard&style=flat-square&color=d4420a&label=profile+views&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=suarezsp&style=flat-square&color=d4420a&label=profile+views&abbreviated=true" />
   &nbsp;
   <img src="https://img.shields.io/badge/open%20to%20collab-d4420a?style=flat-square&logoColor=f8f7f4" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CEO%20%40%20LosPacos-b8860b?style=flat-square&logoColor=0a0a0f" />
 </div>
 
 <br/>
@@ -37,8 +35,8 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  NAME     Lord Farquard                                                 │
-│  ROLE     Fullstack Developer & CEO @ LosPacos                          │
+│  NAME     Nefer Suarez                                                  │
+│  ROLE     Fullstack Developer and LLM developer                         │
 │  DEGREE   Computer Engineering  ·  Final Year                           │
 │  FOCUS    LLMs · Cybersecurity · Industrial Software                    │
 │  STATUS   Building — always.                                            │
@@ -57,7 +55,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 <td width="45%" valign="top" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=LordFarquard&show_icons=true&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&icon_color=b8860b&text_color=b8b8c8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=suarezsp&show_icons=true&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&icon_color=b8860b&text_color=b8b8c8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
   width="100%"
   alt="GitHub Stats"
 />
@@ -74,40 +72,12 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 <!--  § 02 — LOSPACOS                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🏢 &nbsp;`02 / LosPacos`
-
-<div align="center">
-
-```
-██╗      ██████╗ ███████╗    ██████╗  █████╗  ██████╗ ██████╗ ███████╗
-██║     ██╔═══██╗██╔════╝    ██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔════╝
-██║     ██║   ██║███████╗    ██████╔╝███████║██║     ██║   ██║███████╗
-██║     ██║   ██║╚════██║    ██╔═══╝ ██╔══██║██║     ██║   ██║╚════██║
-███████╗╚██████╔╝███████║    ██║     ██║  ██║╚██████╗╚██████╔╝███████║
-╚══════╝ ╚═════╝ ╚══════╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
-
-> **AI-powered agents and enterprise software for startups, tech companies, and industrial environments.**
-
-</div>
-
-<div align="center">
-
-| [![](https://img.shields.io/badge/%E2%96%B8%20AI%20Agents-1c1c24?style=for-the-badge&logoColor=d4420a)](https://lospacos.com) | [![](https://img.shields.io/badge/%E2%96%B8%20Enterprise%20Software-1c1c24?style=for-the-badge)](https://lospacos.com) | [![](https://img.shields.io/badge/%E2%96%B8%20Industrial%20Solutions-1c1c24?style=for-the-badge)](https://lospacos.com) |
-|---|---|---|
-| Intelligent automation with LLMs for real business workflows | Custom fullstack development tailored to growing startups | Robust software for industrial and manufacturing environments |
-
-</div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  § 03 — TECH STACK                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🛠 &nbsp;`03 / stack`
+## 🛠 &nbsp;`02 / stack`
 
 <div align="center">
 
@@ -178,13 +148,13 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 <img
   height="170em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordFarquard&layout=compact&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&text_color=b8b8c8&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suarezsp&layout=compact&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&text_color=b8b8c8&hide_border=false"
   alt="Top Languages"
 />
 &nbsp;
 <img
   height="170em"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=LordFarquard&theme=dark&background=0a0a0f&border=2e2e3e&stroke=2e2e3e&ring=d4420a&fire=b8860b&currStreakNum=f8f7f4&sideNums=b8b8c8&currStreakLabel=d4420a&sideLabels=6b6b7e&dates=3a3a48"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=suarezsp&theme=dark&background=0a0a0f&border=2e2e3e&stroke=2e2e3e&ring=d4420a&fire=b8860b&currStreakNum=f8f7f4&sideNums=b8b8c8&currStreakLabel=d4420a&sideLabels=6b6b7e&dates=3a3a48"
   alt="GitHub Streak"
 />
 
@@ -194,7 +164,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LordFarquard&bg_color=0a0a0f&color=b8b8c8&line=0a5cd4&point=d4420a&area=true&area_color=1c1c24&hide_border=false&border_color=2e2e3e&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=suarezsp&bg_color=0a0a0f&color=b8b8c8&line=0a5cd4&point=d4420a&area=true&area_color=1c1c24&hide_border=false&border_color=2e2e3e&custom_title=Contribution%20Activity"
     width="97%"
     alt="Activity Graph"
   />
@@ -212,7 +182,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=LordFarquard&theme=darkhub&column=7&margin-w=6&margin-h=6&no-bg=false&no-frame=false"
+    src="https://github-profile-trophy.vercel.app/?username=suarezsp&theme=darkhub&column=7&margin-w=6&margin-h=6&no-bg=false&no-frame=false"
     width="100%"
     alt="GitHub Trophies"
   />
@@ -232,15 +202,15 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/suarezsp/suarezsp/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/suarezsp/suarezsp/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="Contribution snake"
-      src="https://raw.githubusercontent.com/LordFarquard/LordFarquard/output/github-contribution-grid-snake-dark.svg"
+      src="https://raw.githubusercontent.com/suarezsp/suarezsp/output/github-contribution-grid-snake-dark.svg"
       width="100%"
     />
   </picture>
@@ -289,21 +259,14 @@ jobs:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/LordFarquard">
+<a href="https://www.linkedin.com/in/nefer-s-626987218/">
   <img src="https://img.shields.io/badge/LinkedIn-1c1c24?style=for-the-badge&logo=linkedin&logoColor=0a5cd4"/>
 </a>
 &nbsp;
-<a href="mailto:lordfarquard@lospacos.com">
+<a href="mailto:nefer.suarez@udc.es">
   <img src="https://img.shields.io/badge/Email-1c1c24?style=for-the-badge&logo=gmail&logoColor=d4420a"/>
 </a>
-&nbsp;
-<a href="https://lospacos.com">
-  <img src="https://img.shields.io/badge/LosPacos-1c1c24?style=for-the-badge&logo=safari&logoColor=b8860b"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/LordFarquard">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-1c1c24?style=for-the-badge&logo=x&logoColor=f8f7f4"/>
-</a>
+
 
 </div>
 
