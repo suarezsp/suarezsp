@@ -96,7 +96,7 @@ Before this, I worked as a full-stack developer and as a programming instructor,
 <tr>
 <td width="50%" valign="top">
 
-**🔐 &nbsp;LLMOps & Private Infrastructure**
+** &nbsp;LLMOps & Private Infrastructure**
 
 Self-hosted LLM pipelines — fine-tuning, RAG, inference — for teams whose data can't leave their own walls. Built to run on infrastructure you control, not a wrapper around someone else's API.
 
@@ -105,7 +105,7 @@ Self-hosted LLM pipelines — fine-tuning, RAG, inference — for teams whose da
 </td>
 <td width="50%" valign="top">
 
-**📈 &nbsp;Predictive ML, Bespoke**
+** &nbsp;Predictive ML, Bespoke**
 
 Forecasting and predictive models scoped to one specific problem and one specific dataset, not a generic product bent into shape after the fact.
 
@@ -116,7 +116,7 @@ Forecasting and predictive models scoped to one specific problem and one specifi
 <tr>
 <td width="50%" valign="top">
 
-**⚖️ &nbsp;EU AI Act Compliance Audits**
+** &nbsp;EU AI Act Compliance Audits**
 
 Risk classification, technical documentation, and audit support for teams deploying ML in the EU. Compliance designed into the system, not bolted on before an inspection.
 
@@ -125,7 +125,7 @@ Risk classification, technical documentation, and audit support for teams deploy
 </td>
 <td width="50%" valign="top">
 
-**🧩 &nbsp;Full-Stack Delivery & Training**
+** &nbsp;Full-Stack Delivery & Training**
 
 End-to-end builds when the ML needs a real interface around it, plus hands-on programming instruction for teams levelling up their own engineering.
 
