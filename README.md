@@ -1,28 +1,44 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                  NEFER SUAREZ — GITHUB PROFILE                   -->
-<!--     Palette: #0a0a0f · #1c1c24 · #2e2e3e · #d4420a · #b8860b    -->
+<!--                          GITHUB PROFILE                           -->
+<!--   Palette: #f4ede0 (cream) · #ece0c5 (deep cream) · #2b2420 (ink) -->
+<!--            #b5652d (copper) · #b8860b (brass) · #d8c9ab (border) -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--
+  TODO before publishing — replace every instance of:
+  suarezsp    → your GitHub username (every stats widget below needs this to render)
+  Nefer Suarez            → the name/alias you want shown publicly
+  nefer-suarez   → your LinkedIn profile slug
+  nefer.labrada@gmail.com           → your contact email
+  nefer.labrada@gmail.com          → hello@morsetechnologies.eu, or your real inbox
+  google.com         → morsetechnologies.eu once it's live, or delete the badge
+  [PROJECT ...]        → swap in real repos under "Selected Work", or delete the section entirely
+
+  Reminder: for this to render as your profile page, it needs to live in a public
+  repo named exactly suarezsp/suarezsp, as README.md at the root.
+-->
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1c1c24&height=160&text=NEFER%20SUAREZ&fontColor=f8f7f4&fontSize=52&fontAlignY=45&desc=Fullstack%20Developer%20%20%C2%B7%20%20Industrial%20Software%20%20%C2%B7%20%20Founder%20%40%20Morse%20Technologies&descColor=6b6b7e&descSize=13&descAlignY=70"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:f4ede0,100:ece0c5&height=160&text=YOUR%20NAME&fontColor=2b2420&fontSize=48&fontAlignY=42&desc=AI%2FML%20Engineer%20%20%C2%B7%20%20Founder%2C%20Morse%20Technologies&descColor=8a6d3b&descSize=13&descAlignY=68"
     width="100%"
   />
+  <sub><code>-- --- .-. ... .</code></sub>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=1400&color=d4420a&center=true&vCenter=true&width=720&lines=%3E+Building+sovereign+AI+for+European+industry;%3E+Founder+%40+Morse+Technologies+%E2%80%94+on-premise+industrial+software;%3E+Computer+Engineering+%E2%80%94+Universidade+da+Coru%C3%B1a;%3E+Fullstack+%7C+Rust+%7C+Go+%7C+LLMs+%7C+Cybersecurity_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1500&color=b5652d&center=true&vCenter=true&width=720&lines=%3E+Private+LLM+infrastructure+for+teams+that+keep+their+own+data;%3E+Founder+%40+Morse+Technologies+%E2%80%94+ML%2FAI+consultancy%2C+EU-focused;%3E+Bespoke+predictive+ML+%7C+EU+AI+Act+compliance+audits;%3E+Full-stack+delivery+%7C+Python+%7C+Go+%7C+Rust+%7C+React_" alt="Typing SVG" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=suarezsp&style=flat-square&color=2e2e3e&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=suarezsp&style=flat-square&color=ece0c5&label=profile+views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Galicia%2C%20Spain%20→%20Warsaw%2C%20PL-2e2e3e?style=flat-square" />
+  <img src="https://img.shields.io/badge/A%20Coru%C3%B1a%2C%20Galicia%20%E2%86%92%20EU%20Market-ece0c5?style=flat-square&labelColor=ece0c5&color=ece0c5" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-d4420a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20for%20Select%20Engagements-b5652d?style=flat-square" />
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  PROFILE                                                           -->
@@ -31,29 +47,29 @@
 <br/>
 
 ```
-  NEFER SUAREZ                                         github.com/suarezsp
+  Nefer Suarez                                          github.com/suarezsp
   ─────────────────────────────────────────────────────────────────────────
-  Role        Fullstack Developer · Founder @ Morse Technologies
-  Degree      Computer Engineering · Universidade da Coruña (2027)
-  Focus       Industrial Software · LLMs · Cybersecurity · Rust · Go
-  Location    Galicia, Spain → Warsaw, Poland (2027)
-  Status      Shipping. Always.
+  Role        AI/ML Engineer · Founder @ Morse Technologies
+  Focus       LLMOps & Private Infra · Predictive ML · EU AI Act Compliance
+  Background  Full-stack development · Programming instruction
+  Location    A Coruña, Galicia, Spain — working across the EU
+  Status      Solo, by design.
 ```
 
 <table>
 <tr>
 <td width="54%" valign="top">
 
-I build software that runs where the internet doesn't — factories, recycling plants, industrial floors. As the founder of **Morse Technologies**, I'm developing a suite of on-premise AI and monitoring tools for European industrial SMEs who can't afford enterprise pricing but deserve enterprise capability.
+I build and audit ML systems for organisations that need to keep control of their own data. As the founder of **Morse Technologies**, I work across three things: private LLM infrastructure (no third-party API in the loop unless you choose one), predictive models built for one specific problem rather than a general-purpose product, and EU AI Act compliance audits for teams that are actually shipping ML in production.
 
-Before Morse, I digitised an entire plastic recycling operation from scratch: sensor networks, production tracking, traceability flows. That hands-on factory experience is the foundation everything I build stands on.
+Morse is deliberately solo. You work directly with the person doing the work — no account manager, no handoff between the person who scoped it and the person who builds it.
 
-I believe the most interesting engineering problems live at the intersection of **low-level performance** (Rust, Go, C) and **applied intelligence** (LLMs, predictive ML) — and that good architecture is invisible to the people who depend on it every day.
+Before this, I worked as a full-stack developer and as a programming instructor, which is probably why I still care more about whether something is simple to maintain than whether it's clever.
 
 </td>
 <td width="46%" valign="top" align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=suarezsp&show_icons=true&bg_color=0a0a0f&border_color=2e2e3e&title_color=d4420a&icon_color=b8860b&text_color=6b6b7e&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=suarezsp&show_icons=true&bg_color=f4ede0&border_color=d8c9ab&title_color=b5652d&icon_color=b8860b&text_color=2b2420&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
   width="100%"
   alt="GitHub Stats"
 />
@@ -62,16 +78,16 @@ I believe the most interesting engineering problems live at the intersection of 
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  WHAT I'M BUILDING                                                 -->
+<!--  WHAT I DO                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
 
 <div align="center">
-  <sub><b>// CURRENT WORK</b></sub>
+  <sub><b>// WHAT I DO AT MORSE</b></sub>
 </div>
 
 <br/>
@@ -80,50 +96,66 @@ I believe the most interesting engineering problems live at the intersection of 
 <tr>
 <td width="50%" valign="top">
 
-**🔭 &nbsp;[Andrómeda](https://github.com/morse-tech/andromeda)** &nbsp;`GA`
+**🔐 &nbsp;LLMOps & Private Infrastructure**
 
-Real-time industrial monitoring platform. Centralises sensor data from factory machinery, runs predictive maintenance AI on-premise, and serves two UIs simultaneously: a 3D dashboard for plant managers and a large-format status screen for operators on the factory floor.
+Self-hosted LLM pipelines — fine-tuning, RAG, inference — for teams whose data can't leave their own walls. Built to run on infrastructure you control, not a wrapper around someone else's API.
 
-`Go` &nbsp;`React` &nbsp;`Three.js` &nbsp;`TimescaleDB` &nbsp;`Python/ML` &nbsp;`Tauri`
+`Docker` &nbsp;`AWS` &nbsp;`PyTorch` &nbsp;`FastAPI`
 
 </td>
 <td width="50%" valign="top">
 
-**📋 &nbsp;[Morse Forms](https://github.com/morse-tech/morse-forms)** &nbsp;`WIP`
+**📈 &nbsp;Predictive ML, Bespoke**
 
-Pack-based work order digitalisation. A generic Rust server that loads sector-specific JSON configuration packs (plastic recycling, agri, food processing) and renders the correct forms for each worker role — carretillero, RSU, plant manager — with PIN auth, shift tracking, and automatic forwarding to logistics.
+Forecasting and predictive models scoped to one specific problem and one specific dataset, not a generic product bent into shape after the fact.
 
-`Rust` &nbsp;`Actix-web` &nbsp;`React` &nbsp;`SQLite` &nbsp;`WebSockets`
+`Python` &nbsp;`PyTorch`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🛠 &nbsp;Morse Maint** &nbsp;`DESIGN`
+**⚖️ &nbsp;EU AI Act Compliance Audits**
 
-CMMS (Computerised Maintenance Management) integrated natively with Andrómeda. When the ML module predicts a failure, Maint auto-generates a work order, checks spare parts inventory, and proposes the least disruptive maintenance window.
+Risk classification, technical documentation, and audit support for teams deploying ML in the EU. Compliance designed into the system, not bolted on before an inspection.
 
-`Go` &nbsp;`React` &nbsp;`TimescaleDB`
+`EU AI Act` &nbsp;`Technical Documentation` &nbsp;`Risk Assessment`
 
 </td>
 <td width="50%" valign="top">
 
-**📦 &nbsp;Morse Industrial Suite**
+**🧩 &nbsp;Full-Stack Delivery & Training**
 
-The long game: a modular, on-premise, AI-native operating system for the European industrial SME. Andrómeda + Maint + Trace + Energy — all sharing a local data layer, all compliant with the EU AI Act by design, none requiring a cloud subscription.
+End-to-end builds when the ML needs a real interface around it, plus hands-on programming instruction for teams levelling up their own engineering.
 
-`Rust` &nbsp;`Go` &nbsp;`Python` &nbsp;`React` &nbsp;`SQLite/TimescaleDB`
+`React` &nbsp;`FastAPI` &nbsp;`Go` &nbsp;`Rust`
 
 </td>
 </tr>
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  TECHNICAL PROFILE                                                 -->
+<!--  SELECTED WORK — placeholder, not a claim                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <sub><b>// SELECTED WORK</b></sub>
+  <br/>
+  <sub>Template below — swap in real repos, or delete this section if the work is under NDA.</sub>
+</div>
+
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  STACK                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
@@ -140,76 +172,51 @@ The long game: a modular, on-premise, AI-native operating system for the Europea
 
 **LANGUAGES**
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
-[![OCaml](https://img.shields.io/badge/OCaml-d3971f?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=2b2420)   
+[![Python](https://img.shields.io/badge/Python-f4ede0?style=for-the-badge&logo=python&logoColor=2b2420)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f4ede0?style=for-the-badge&logo=javascript&logoColor=2b2420)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/Go-f4ede0?style=for-the-badge&logo=go&logoColor=2b2420)](https://go.dev)
+[![Rust](https://img.shields.io/badge/Rust-f4ede0?style=for-the-badge&logo=rust&logoColor=2b2420)](https://rust-lang.org)
 
 <br/>
 
-**FRONTEND**
+**FRAMEWORKS**
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-
-<br/>
-
-**BACKEND & INFRASTRUCTURE**
-
-[![Actix Web](https://img.shields.io/badge/Actix--web-000000?style=for-the-badge&logo=rust&logoColor=white)](https://actix.rs)
-[![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)](https://gofiber.io)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
+[![React](https://img.shields.io/badge/React-f4ede0?style=for-the-badge&logo=react&logoColor=2b2420)](https://react.dev)
+[![FastAPI](https://img.shields.io/badge/FastAPI-f4ede0?style=for-the-badge&logo=fastapi&logoColor=2b2420)](https://fastapi.tiangolo.com)
+[![PyTorch](https://img.shields.io/badge/PyTorch-f4ede0?style=for-the-badge&logo=pytorch&logoColor=2b2420)](https://pytorch.org)
 
 </td>
 <td valign="top" width="50%">
 
-**DATABASES**
+**INFRASTRUCTURE**
 
-[![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)](https://timescale.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Docker](https://img.shields.io/badge/Docker-f4ede0?style=for-the-badge&logo=docker&logoColor=2b2420)](https://docker.com)
+[![AWS](https://img.shields.io/badge/AWS-f4ede0?style=for-the-badge&logo=amazonaws&logoColor=2b2420)](https://aws.amazon.com)
 
 <br/>
 
-**AI / LLM**
+**ARCHITECTURE & PRACTICE**
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
-[![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+![Hexagonal](https://img.shields.io/badge/Hexagonal%20Architecture-b5652d?style=flat-square)
+![DDD](https://img.shields.io/badge/Domain--Driven%20Design-b5652d?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-b5652d?style=flat-square)
 
 <br/>
 
-**CYBERSECURITY**
+**WORKING LANGUAGES**
 
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://kali.org)
-[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://wireshark.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://metasploit.com)
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
+![ES](https://img.shields.io/badge/Espa%C3%B1ol-8a6d3b?style=flat-square)
+![GL](https://img.shields.io/badge/Galego-8a6d3b?style=flat-square)
+![EN](https://img.shields.io/badge/English-8a6d3b?style=flat-square)
+![PL](https://img.shields.io/badge/Polski-8a6d3b?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  PHILOSOPHY                                                        -->
@@ -227,37 +234,66 @@ The long game: a modular, on-premise, AI-native operating system for the Europea
 <tr>
 <td align="center" width="25%">
 <br/>
-<code>on-premise first</code>
+<code>private by default</code>
 <br/><br/>
-<sub>Data belongs to the factory.<br/>Not to a cloud provider.</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<code>simplicity over abstraction</code>
-<br/><br/>
-<sub>If it could be 50 lines,<br/>it shouldn't be 200.</sub>
+<sub>If it can run on your<br/>infrastructure, it should.</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
-<code>domain knowledge first</code>
+<code>compliance is architecture</code>
 <br/><br/>
-<sub>Good industrial software<br/>is built inside the factory.</sub>
+<sub>Designed in from day one,<br/>not retrofitted before an audit.</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
-<code>EU AI Act by design</code>
+<code>simple systems survive</code>
 <br/><br/>
-<sub>Compliance isn't a constraint.<br/>It's a competitive advantage.</sub>
+<sub>Explicit domain logic over<br/>clever abstractions.</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<code>measure, don't market</code>
+<br/><br/>
+<sub>A system's numbers speak<br/>for themselves.</sub>
 <br/><br/>
 </td>
 </tr>
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  RESEARCH RADAR                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <sub><b>// RESEARCH RADAR</b></sub>
+  <br/>
+  <sub>What's currently on the bench.</sub>
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+- Sparse and hybrid attention mechanisms in newer transformer architectures, and what they mean for inference cost at consultancy scale
+- Bias findings in specialised domain-specific models, and how they intersect with EU AI Act Article 10 data-governance requirements
+- Mamba-based architectures for time series forecasting, as a lower-compute alternative for clients who can't justify a GPU cluster
+
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  ACTIVITY                                                          -->
@@ -275,13 +311,13 @@ The long game: a modular, on-premise, AI-native operating system for the Europea
 
 <img
   height="155em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suarezsp&layout=compact&bg_color=0a0a0f&border_color=2e2e3e&title_color=b8b8c8&text_color=6b6b7e&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suarezsp&layout=compact&bg_color=f4ede0&border_color=d8c9ab&title_color=2b2420&text_color=5c5347&hide_border=false"
   alt="Top Languages"
 />
 &nbsp;
 <img
   height="155em"
-  src="https://streak-stats.demolab.com/?user=suarezsp&background=0a0a0f&border=2e2e3e&stroke=2e2e3e&ring=d4420a&fire=b8860b&currStreakNum=f8f7f4&sideNums=b8b8c8&currStreakLabel=6b6b7e&sideLabels=6b6b7e&dates=3a3a48"
+  src="https://streak-stats.demolab.com/?user=suarezsp&background=f4ede0&border=d8c9ab&stroke=d8c9ab&ring=b5652d&fire=b8860b&currStreakNum=2b2420&sideNums=5c5347&currStreakLabel=8a6d3b&sideLabels=5c5347&dates=8a6d3b"
   alt="GitHub Streak"
 />
 
@@ -291,31 +327,14 @@ The long game: a modular, on-premise, AI-native operating system for the Europea
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=suarezsp&bg_color=0a0a0f&color=6b6b7e&line=0a5cd4&point=d4420a&area=true&area_color=1c1c24&hide_border=false&border_color=2e2e3e&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=suarezsp&bg_color=f4ede0&color=5c5347&line=b5652d&point=b8860b&area=true&area_color=ece0c5&hide_border=false&border_color=d8c9ab&custom_title=Contribution%20Activity"
     width="97%"
     alt="Activity Graph"
   />
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  ACHIEVEMENTS                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=suarezsp&theme=darkhub&column=7&margin-w=6&margin-h=6&no-bg=false&no-frame=false"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  MORSE TECHNOLOGIES                                                -->
@@ -332,23 +351,18 @@ The long game: a modular, on-premise, AI-native operating system for the Europea
 <div align="center">
 
 ```
-  Sovereign software for the European factory floor.
-  On-premise · Modular · AI-native · EU AI Act compliant
+  ML/AI consultancy. Private infrastructure. EU AI Act compliance.
+  Solo, by design — you work with the person doing the work.
 
-  Andrómeda  ·  Morse Forms  ·  Morse Maint  ·  Morse Trace  ·  Morse Energy
-  ─────────────────────────────────────────────────────────────────────────────
-  The same operational intelligence as large manufacturers —
-  without enterprise pricing, cloud dependency, or months of consultancy.
+  LLMOps & Private Infra  ·  Bespoke Predictive ML  ·  Compliance Audits  ·  Full-Stack Delivery
 ```
 
-[![morse-tech](https://img.shields.io/badge/Morse%20Technologies-Organisation-2e2e3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morse-tech)
-&nbsp;
-[![Website](https://img.shields.io/badge/morsetechnologies.eu-d4420a?style=for-the-badge&logo=firefox&logoColor=white)](https://morsetechnologies.eu)
+[![Website](https://img.shields.io/badge/MORSE--DOMAIN-b5652d?style=for-the-badge&logo=firefox&logoColor=f4ede0)](https://google.com)
 
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2e2e3e&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  CONTACT                                                           -->
@@ -364,11 +378,11 @@ The long game: a modular, on-premise, AI-native operating system for the Europea
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nefer%20Suarez-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=0a5cd4&labelColor=1c1c24)](https://www.linkedin.com/in/nefer-s-626987218/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR%20NAME-f4ede0?style=for-the-badge&logo=linkedin&logoColor=b5652d&labelColor=f4ede0)](https://www.linkedin.com/in/nefer-suarez/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-nefer.suarez%40udc.es-0a0a0f?style=for-the-badge&logo=gmail&logoColor=d4420a&labelColor=1c1c24)](mailto:nefer.suarez@udc.es)
+[![Email](https://img.shields.io/badge/Email-YOUR--EMAIL-f4ede0?style=for-the-badge&logo=gmail&logoColor=b5652d&labelColor=f4ede0)](mailto:nefer.labrada@gmail.com)
 &nbsp;
-[![Morse](https://img.shields.io/badge/Morse%20Technologies-hello%40morsetechnologies.eu-0a0a0f?style=for-the-badge&logo=maildotru&logoColor=b8860b&labelColor=1c1c24)](mailto:hello@morsetechnologies.eu)
+[![Morse](https://img.shields.io/badge/Morse%20Technologies-MORSE--EMAIL-f4ede0?style=for-the-badge&logo=maildotru&logoColor=b8860b&labelColor=f4ede0)](mailto:nefer.labrada@gmail.com)
 
 </div>
 
@@ -380,7 +394,7 @@ The long game: a modular, on-premise, AI-native operating system for the Europea
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1c1c24&height=90&text=Built%20inside%20the%20factory.%20Not%20outside%20it.&fontSize=20&fontColor=b8b8c8&fontAlignY=42&desc=github.com%2Fsuarezsp%20%20%C2%B7%20%20morsetechnologies.eu&descSize=11&descColor=2e2e3e&descAlignY=72"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:ece0c5,100:f4ede0&height=90&text=Signal%20over%20noise.&fontSize=20&fontColor=2b2420&fontAlignY=42&desc=github.com%2Fsuarezsp%20%20%C2%B7%20%20google.com&descSize=11&descColor=8a6d3b&descAlignY=72"
     width="100%"
   />
 </div>
