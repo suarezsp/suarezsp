@@ -20,7 +20,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:f4ede0,100:ece0c5&height=160&text=YOUR%20NAME&fontColor=2b2420&fontSize=48&fontAlignY=42&desc=AI%2FML%20Engineer%20%20%C2%B7%20%20Founder%2C%20Morse%20Technologies&descColor=8a6d3b&descSize=13&descAlignY=68"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:f4ede0,100:ece0c5&height=160&text=NEFER%20SUAREZ&fontColor=2b2420&fontSize=48&fontAlignY=42&desc=AI%2FML%20Engineer%20%20%C2%B7%20%20Founder%2C%20Morse%20Technologies&descColor=8a6d3b&descSize=13&descAlignY=68"
     width="100%"
   />
   <sub><code>-- --- .-. ... .</code></sub>
