@@ -20,7 +20,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:f4ede0,100:ece0c5&height=160&text=NEFER%20SUAREZ&fontColor=2b2420&fontSize=48&fontAlignY=42&desc=AI%2FML%20Engineer%20%20%C2%B7%20%20Founder%2C%20Morse%20Technologies&descColor=8a6d3b&descSize=13&descAlignY=68"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:f4ede0,100:ece0c5&height=160&text=NEFER%20SUAREZ&fontColor=2b2420&fontSize=48&fontAlignY=42&desc=AI%2FML%20Engineer%20%20,%20%20Founder%2C%20Morse%20Technologies&descColor=8a6d3b&descSize=13&descAlignY=68"
     width="100%"
   />
   <sub><code>-- --- .-. ... .</code></sub>
@@ -32,9 +32,9 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=suarezsp&style=flat-square&color=ece0c5&label=profile+views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/A%20Coru%C3%B1a%2C%20Galicia%20%E2%86%92%20EU%20Market-ece0c5?style=flat-square&labelColor=ece0c5&color=ece0c5" />
+  <img src="https://img.shields.io/badge/Spanish,by the grace of God.%20Market-ece0c5?style=flat-square&labelColor=ece0c5&color=ece0c5" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20for%20Select%20Engagements-b5652d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Eager%to%20work%20with%20you-b5652d?style=flat-square" />
 </div>
 
 <br/>
@@ -47,12 +47,12 @@
 <br/>
 
 ```
-  Nefer Suarez                                          github.com/suarezsp
+  Nefer Suárez                                          github.com/suarezsp
   ─────────────────────────────────────────────────────────────────────────
-  Role        AI/ML Engineer · Founder @ Morse Technologies
-  Focus       LLMOps & Private Infra · Predictive ML · EU AI Act Compliance
-  Background  Full-stack development · Programming instruction
-  Location    A Coruña, Galicia, Spain — working across the EU
+  Role        AI/ML Engineer and Founder @ Morse Technologies.
+  Focus       Predictive ML, LLMops and private infrastructure.
+  Background  Full-stack and ML development.
+  Location    Spain, working for all EU.
   Status      Solo, by design.
 ```
 
@@ -62,7 +62,7 @@
 
 I build and audit ML systems for organisations that need to keep control of their own data. As the founder of **Morse Technologies**, I work across three things: private LLM infrastructure (no third-party API in the loop unless you choose one), predictive models built for one specific problem rather than a general-purpose product, and EU AI Act compliance audits for teams that are actually shipping ML in production.
 
-Morse is deliberately solo. You work directly with the person doing the work — no account manager, no handoff between the person who scoped it and the person who builds it.
+Morse is deliberately solo. You work directly with the person doing the work; no account manager, no handoff between the person who scoped it and the person who builds it.
 
 Before this, I worked as a full-stack developer and as a programming instructor, which is probably why I still care more about whether something is simple to maintain than whether it's clever.
 
@@ -98,9 +98,9 @@ Before this, I worked as a full-stack developer and as a programming instructor,
 
 **LLMOps & Private Infrastructure**
 
-Self-hosted LLM pipelines — fine-tuning, RAG, inference — for teams whose data can't leave their own walls. Built to run on infrastructure you control, not a wrapper around someone else's API.
+Self-hosted LLM pipelines, fine-tuning, RAG, inference, for teams whose data can't leave their own walls. Built to run on infrastructure you control, not a wrapper around someone else's API.
 
-`Docker` &nbsp;`AWS` &nbsp;`PyTorch` &nbsp;`FastAPI`
+`Docker` &nbsp;`AWS` &nbsp;`PyTorch` &nbsp;`FastAPI` &nbsp;`MatLab` 
 
 </td>
 <td width="50%" valign="top">
@@ -109,7 +109,7 @@ Self-hosted LLM pipelines — fine-tuning, RAG, inference — for teams whose da
 
 Forecasting and predictive models scoped to one specific problem and one specific dataset, not a generic product bent into shape after the fact.
 
-`Python` &nbsp;`PyTorch`
+`Python` &nbsp;`PyTorch` &nbsp;`C` &nbsp;`Julia` &nbsp;`MatLab`
 
 </td>
 </tr>
@@ -129,7 +129,7 @@ Risk classification, technical documentation, and audit support for teams deploy
 
 End-to-end builds when the ML needs a real interface around it, plus hands-on programming instruction for teams levelling up their own engineering.
 
-`React` &nbsp;`FastAPI` &nbsp;`Go` &nbsp;`Rust`
+`React` &nbsp;`FastAPI` &nbsp;`Go` &nbsp;`Rust` &nbsp;`PHP` &nbsp;`Python`
 
 </td>
 </tr>
@@ -137,19 +137,6 @@ End-to-end builds when the ML needs a real interface around it, plus hands-on pr
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  SELECTED WORK — placeholder, not a claim                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-  <sub><b>// SELECTED WORK</b></sub>
-  <br/>
-  <sub>Template below — swap in real repos, or delete this section if the work is under NDA.</sub>
-</div>
-
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
@@ -267,35 +254,6 @@ End-to-end builds when the ML needs a real interface around it, plus hands-on pr
 <img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  RESEARCH RADAR                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-  <sub><b>// RESEARCH RADAR</b></sub>
-  <br/>
-  <sub>What's currently on the bench.</sub>
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-- Sparse and hybrid attention mechanisms in newer transformer architectures, and what they mean for inference cost at consultancy scale
-- Bias findings in specialised domain-specific models, and how they intersect with EU AI Act Article 10 data-governance requirements
-- Mamba-based architectures for time series forecasting, as a lower-compute alternative for clients who can't justify a GPU cluster
-
-</td>
-</tr>
-</table>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  ACTIVITY                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -352,12 +310,12 @@ End-to-end builds when the ML needs a real interface around it, plus hands-on pr
 
 ```
   ML/AI consultancy. Private infrastructure. EU AI Act compliance.
-  Solo, by design — you work with the person doing the work.
+  Solo, by design. You work with the person doing the work.
 
-  LLMOps & Private Infra  ·  Bespoke Predictive ML  ·  Compliance Audits  ·  Full-Stack Delivery
+  LLMOps & Private Infra, Bespoke Predictive ML, Compliance Audits, Full-Stack Delivery
 ```
 
-[![Website](https://img.shields.io/badge/MORSE--DOMAIN-b5652d?style=for-the-badge&logo=firefox&logoColor=f4ede0)](https://google.com)
+[![Website](https://img.shields.io/badge/MORSE--DOMAIN-b5652d?style=for-the-badge&logo=firefox&logoColor=f4ede0)](https://morsetechnologies.es)
 
 </div>
 
@@ -378,11 +336,11 @@ End-to-end builds when the ML needs a real interface around it, plus hands-on pr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR%20NAME-f4ede0?style=for-the-badge&logo=linkedin&logoColor=b5652d&labelColor=f4ede0)](https://www.linkedin.com/in/nefer-suarez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NEFER%20SUAREZ-f4ede0?style=for-the-badge&logo=linkedin&logoColor=b5652d&labelColor=f4ede0)](https://www.linkedin.com/in/nefer-suarez/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-YOUR--EMAIL-f4ede0?style=for-the-badge&logo=gmail&logoColor=b5652d&labelColor=f4ede0)](mailto:nefer.labrada@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nefer.suarez@proton.me-f4ede0?style=for-the-badge&logo=gmail&logoColor=b5652d&labelColor=f4ede0)](mailto:nefer.suarez@proton.me)
 &nbsp;
-[![Morse](https://img.shields.io/badge/Morse%20Technologies-MORSE--EMAIL-f4ede0?style=for-the-badge&logo=maildotru&logoColor=b8860b&labelColor=f4ede0)](mailto:nefer.labrada@gmail.com)
+[![Morse](https://img.shields.io/badge/Morse%20Technologies-suarez@morsetechnologies.es-f4ede0?style=for-the-badge&logo=maildotru&logoColor=b8860b&labelColor=f4ede0)](mailto:suarez@morsetechnologies.es)
 
 </div>
 
@@ -394,7 +352,7 @@ End-to-end builds when the ML needs a real interface around it, plus hands-on pr
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:ece0c5,100:f4ede0&height=90&text=Signal%20over%20noise.&fontSize=20&fontColor=2b2420&fontAlignY=42&desc=github.com%2Fsuarezsp%20%20%C2%B7%20%20google.com&descSize=11&descColor=8a6d3b&descAlignY=72"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:ece0c5,100:f4ede0&height=90&text=Signal%20over%20noise.&fontSize=20&fontColor=2b2420&fontAlignY=42&desc=github.com%2Fsuarezsp%20%20%C2%B7%20%20morsetechnologies.es&descSize=11&descColor=8a6d3b&descAlignY=72"
     width="100%"
   />
 </div>
