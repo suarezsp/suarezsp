@@ -12,9 +12,9 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=suarezsp&style=flat-square&color=ece0c5&label=profile+views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Spanish, by the grace of God./>
+  <img src="https://img.shields.io/badge/Espa%C3%B1ol-b5652d?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Eager%to%20work%20with%20you-b5652d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Eager%20to%20work%20with%20you-b5652d?style=flat-square" />
 </div>
 
 <br/>
@@ -80,7 +80,7 @@ Before this, I worked as a full-stack developer and as a programming instructor,
 
 Self-hosted LLM pipelines, fine-tuning, RAG, inference, for teams whose data can't leave their own walls. Built to run on infrastructure you control, not a wrapper around someone else's API.
 
-`Docker` &nbsp;`AWS` &nbsp;`PyTorch` &nbsp;`FastAPI` &nbsp;`MatLab` 
+`Docker` &nbsp;`AWS` &nbsp;`PyTorch` &nbsp;`FastAPI` &nbsp;`MatLab`
 
 </td>
 <td width="50%" valign="top">
@@ -118,9 +118,6 @@ End-to-end builds when the ML needs a real interface around it, plus hands-on pr
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=d8c9ab&height=2" width="100%"/>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  STACK                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -139,7 +136,7 @@ End-to-end builds when the ML needs a real interface around it, plus hands-on pr
 
 **LANGUAGES**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=2b2420)   
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=2b2420)
 [![Python](https://img.shields.io/badge/Python-f4ede0?style=for-the-badge&logo=python&logoColor=2b2420)](https://python.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f4ede0?style=for-the-badge&logo=javascript&logoColor=2b2420)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Go](https://img.shields.io/badge/Go-f4ede0?style=for-the-badge&logo=go&logoColor=2b2420)](https://go.dev)
