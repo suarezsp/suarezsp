@@ -1,26 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB PROFILE                           -->
-<!--   Palette: #f4ede0 (cream) · #ece0c5 (deep cream) · #2b2420 (ink) -->
-<!--            #b5652d (copper) · #b8860b (brass) · #d8c9ab (border) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!--
-  TODO before publishing — replace every instance of:
-  suarezsp    → your GitHub username (every stats widget below needs this to render)
-  Nefer Suarez            → the name/alias you want shown publicly
-  nefer-suarez   → your LinkedIn profile slug
-  nefer.labrada@gmail.com           → your contact email
-  nefer.labrada@gmail.com          → hello@morsetechnologies.eu, or your real inbox
-  google.com         → morsetechnologies.eu once it's live, or delete the badge
-  [PROJECT ...]        → swap in real repos under "Selected Work", or delete the section entirely
-
-  Reminder: for this to render as your profile page, it needs to live in a public
-  repo named exactly suarezsp/suarezsp, as README.md at the root.
--->
-
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:f4ede0,100:ece0c5&height=160&text=NEFER%20SUAREZ&fontColor=2b2420&fontSize=48&fontAlignY=42&desc=AI%2FML%20Engineer%20%20,%20%20Founder%2C%20Morse%20Technologies&descColor=8a6d3b&descSize=13&descAlignY=68"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:f4ede0,100:ece0c5&height=160&text=NEFER%20SUAREZ&fontColor=2b2420&fontSize=48&fontAlignY=42&desc=AI%2FML%20Engineer%20,%20%20Founder%20of%20Morse%20Technologies&descColor=8a6d3b&descSize=13&descAlignY=68"
     width="100%"
   />
   <sub><code>-- --- .-. ... .</code></sub>
@@ -32,7 +12,7 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=suarezsp&style=flat-square&color=ece0c5&label=profile+views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Spanish,by the grace of God.%20Market-ece0c5?style=flat-square&labelColor=ece0c5&color=ece0c5" />
+  <img src="https://img.shields.io/badge/Spanish, by the grace of God./>
   &nbsp;
   <img src="https://img.shields.io/badge/Eager%to%20work%20with%20you-b5652d?style=flat-square" />
 </div>
